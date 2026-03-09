@@ -15,8 +15,8 @@
 - [Hexo 引流插件](https://github.com/rqh656418510/hexo-readmore)
 - [VuePress v1 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular)
 - [VuePress v2 引流插件](https://github.com/rqh656418510/vuepress-plugin-readmore-popular-next)
-- [基于开放 API 的 Java 后端引流项目](https://github.com/rqh656418510/techgrow-openapi-java)
-- [TechGrow 公众号引流工具的整合案例](https://github.com/rqh656418510/techgrow-blog-demo)
+- [公众号引流 Java 后端项目](https://github.com/rqh656418510/techgrow-openapi-java)
+- [公众号引流插件的使用案例](https://github.com/rqh656418510/techgrow-blog-demo)
 
 ## 技术声明
 
